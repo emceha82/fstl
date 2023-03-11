@@ -1,5 +1,13 @@
 # fstl
 
+
+
+add QOL stuff stolen from IrfanView
+close on escape
+cycle through folder with notification
+ALT + HOLD LMB, SHIFT + hLMB, CTRL + hLMB   == rotate in only one axis
+
+
 `fstl` is a very fast [.stl file](http://en.wikipedia.org/wiki/STL_\(file_format\)) viewer.
 
 It was originally written by [Matt Keeter](https://mattkeeter.com),
